@@ -1,0 +1,15 @@
+###########
+# temp file #
+##########
+*.pyc
+*.db
+*.csv
+.pydevproject
+.project
+##########
+# temp dir #
+#########
+Products/
+Data/
+BigCat/
+.settings/
